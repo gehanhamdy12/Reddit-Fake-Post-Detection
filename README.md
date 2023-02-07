@@ -1,6 +1,7 @@
 # Reddit-Fake-Post-Detection
 
-Predict if a reddit post is fake news or not, by looking at its title 
+Predict if a reddit post is fake news or not, by looking at its title.
+
 The input is text data which include the tile of news that we want to predict if the given post is fake news or not .
 The output is a prediction if a specific reddit post is fake news or not, by looking at its title.
 
